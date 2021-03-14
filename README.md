@@ -6,4 +6,4 @@
 - pygame
 - random
 
-![alt tag](https://i.ibb.co/gwxqxNs/ezgif-3-24ed0aa7577c.gif)​
+![hippo](https://i.ibb.co/gwxqxNs/ezgif-3-24ed0aa7577c.gif)

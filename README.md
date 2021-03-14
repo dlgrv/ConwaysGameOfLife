@@ -6,4 +6,4 @@
 - pygame
 - random
 
-![hippo](https://i.ibb.co/cLFjGdy/ezgif-com-gif-maker.gif)
+![hippo](https://i.ibb.co/pn03hT3/ezgif-com-gif-maker-2.gif)
